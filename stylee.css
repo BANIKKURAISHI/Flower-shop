@@ -3,6 +3,21 @@
     outline: 0;
 }
 
+.nav-title{
+    background-color: rgb(119, 129, 126);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+nav ul li {
+    list-style: none;
+}
+nav ul li a {
+    font-size: 1.3rem;
+    color: white;
+    text-decoration: none;
+}
 /*seaction-1*/
 .first-seaction {
     display: flex;
@@ -50,10 +65,11 @@
 
 .card {
     display: flex;
-    width: 500px;
+    width: 400px;
   gap: 15px;
 margin-left: 50px;
   text-align: center;
+  padding: 20px;
 }
 
 .car-normal{
@@ -64,8 +80,8 @@ margin-left: 50px;
 
 .card-img2{
     background-color:#cbdadb;
-border-start-start-radius: 50%;
-border-start-end-radius: 50%;
+border-start-start-radius: 45%;
+border-start-end-radius: 45%;
 padding: 30px;
 text-align: center;
 
@@ -73,15 +89,15 @@ text-align: center;
 .card-img1{
     background-color:#e0d2d2;
  
-border-start-start-radius: 50%;
-border-start-end-radius: 50%;
+border-start-start-radius: 45%;
+border-start-end-radius: 45%;
 padding: 30px;
 
 }
 .card-img3{
 background-color: #D1DDC6;
-border-start-start-radius: 50%;
-border-start-end-radius: 50%;
+border-start-start-radius: 45%;
+border-start-end-radius: 45%;
 padding: 30px;
 
 }
