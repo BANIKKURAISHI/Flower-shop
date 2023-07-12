@@ -161,3 +161,32 @@ margin: 70px 200px 50px 50PX;
 .imag1{
 
 }
+
+/*seaction7*/
+.section7{
+    background-image: url(images/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    margin-top: 60px;
+}
+  
+.greatings{
+    text-align: center;
+    .
+
+}
+.submit{
+    border-radius: 7px;
+    width: 90px;
+    height: 30px;
+}
+input[type=email]{
+    width: 40vh;
+   box-sizing: border-box;
+   margin: 5px 0px 40px;
+   border-radius:7px ;
+   color: white;
+}
+
+.last-part{
+    
+}
