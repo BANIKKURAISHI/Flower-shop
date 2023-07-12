@@ -13,11 +13,18 @@
 .first-class {
     text-align: center;
     align-items: center;
+    
 
 }
 .pra {
     text-align: justify;
     opacity: .75;
+}
+
+#photo {
+    height: 600px;
+    width:500px ;
+    margin: 85px ;
 }
 .btn-primary {
     padding: 10px;
@@ -28,4 +35,129 @@
 .head{
     font-size: 2rem;
     text-align: justify;
+}
+.second{
+   text-align: center;
+}
+.pra1{
+    opacity: .75;
+    text-align: center;
+}
+
+.card {
+    display: flex;
+    width: 500px;
+  gap: 15px;
+margin-left: 50px;
+  text-align: center;
+}
+
+.car-normal{
+   
+    opacity: .85;
+    height: 10%;
+}
+
+.card-img2{
+background-color: #A72162;
+border-start-start-radius: 50%;
+border-start-end-radius: 50%;
+padding: 30px;
+text-align: center;
+
+}
+.card-img1{
+background-color: #477D11;
+border-start-start-radius: 50%;
+border-start-end-radius: 50%;
+padding: 30px;
+
+}
+.card-img3{
+background-color: #0597A0;
+border-start-start-radius: 50%;
+border-start-end-radius: 50%;
+padding: 30px;
+
+}
+.title{
+    display: flex;
+    gap: 250px;
+    margin: 5px 200px 5px 200px;
+
+}
+
+.card2{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color:#BAA2A2;
+    margin: 15px;
+}
+.card-details{
+    display: block;
+
+    margin: 30px 150px 20px 150px;
+    text-align: center;
+}
+
+/*seaction 4*/
+.fast1{
+    display: flex;
+    padding: 20px;
+    background-color: #b1a5a5;
+   margin: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.first-class1{
+
+  text-align: center;
+  font-size: 1.5rem;
+margin: 70px 200px 50px 50PX;
+
+    
+
+}
+#heading{
+    text-align: center;
+}
+.pra2{
+    text-align: center;
+    font-size: 1.2rem;
+}
+.secondary{
+    text-align: center;
+    padding: 5px;
+    margin: 4PX 250PX ;
+}
+
+.IMAGE{
+    height: 400PX;
+    text-align: center;
+    margin-top: 20PX;
+}
+
+
+/*seaction 5*/
+.section5{
+    text-align: center;
+}
+
+/*seaction6*/
+.section6{
+    display: flex;
+    
+    margin: 20px;
+    justify-content: center;
+
+}
+.imagA{
+  height: 300px;
+  width: 250px;
+}
+.imag1{
+
 }
