@@ -3,8 +3,8 @@
     outline: 0;
 }
 
-
-.first {
+/*seaction-1*/
+.first-seaction {
     display: flex;
     color: #1E1E1E;
     align-items: center;
@@ -22,15 +22,19 @@
 }
 
 #photo {
-    height: 600px;
-    width:500px ;
+    height: 800px;
+    width:635px ;
     margin: 85px ;
 }
 .btn-primary {
     padding: 10px;
     float: left;
-  background-color: brown;
+
   color: white;
+  border-radius: 7px;
+  width: 90px;
+  height: 30px;
+  background-color:  #864a57;
 }
 .head{
     font-size: 2rem;
@@ -59,7 +63,7 @@ margin-left: 50px;
 }
 
 .card-img2{
-background-color: #A72162;
+    background-color:#cbdadb;
 border-start-start-radius: 50%;
 border-start-end-radius: 50%;
 padding: 30px;
@@ -67,14 +71,15 @@ text-align: center;
 
 }
 .card-img1{
-background-color: #477D11;
+    background-color:#e0d2d2;
+ 
 border-start-start-radius: 50%;
 border-start-end-radius: 50%;
 padding: 30px;
 
 }
 .card-img3{
-background-color: #0597A0;
+background-color: #D1DDC6;
 border-start-start-radius: 50%;
 border-start-end-radius: 50%;
 padding: 30px;
@@ -91,8 +96,9 @@ padding: 30px;
     display: flex;
     width: 100%;
     height: 100%;
-    background-color:#BAA2A2;
-    margin: 15px;
+    background-color:#fffbfb;
+    margin: 30px;
+    border: solid 1px;
 }
 .card-details{
     display: block;
@@ -105,10 +111,11 @@ padding: 30px;
 .fast1{
     display: flex;
     padding: 20px;
-    background-color: #b1a5a5;
-   margin: 10px;
+    background-color: #fff7f7;
+   margin: 40px;
     align-items: center;
     justify-content: center;
+   
 }
 
 
@@ -171,13 +178,15 @@ margin: 70px 200px 50px 50PX;
   
 .greatings{
     text-align: center;
-    .
+    
 
 }
 .submit{
     border-radius: 7px;
     width: 90px;
     height: 30px;
+    color: white;
+    background-color:  #864a57;
 }
 input[type=email]{
     width: 40vh;
@@ -187,6 +196,22 @@ input[type=email]{
    color: white;
 }
 
+/*this is last part */
 .last-part{
-    
+    text-align: center;
+    background-color: rgb(7, 6, 6);
+    color: white;
+   margin-top: 40px;
+
+}
+.last-part2{
+    opacity: .8;
+    margin-bottom: 60px;
+}
+.para3{
+ font-size: .8rem;
+}
+#span2{
+    color:white;
+    color:  #864a57;
 }
